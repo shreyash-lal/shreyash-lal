@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/shreyash-lal" target="_blank">
+<a href="https://linkedin.com/in/shreyash-lal-5579b636b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
 <a href="mailto:shreyashlal2006@gmail.com" target="_blank">
