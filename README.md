@@ -27,21 +27,7 @@
 
 ---
 
-## 🚀 Featured Projects  
 
-<div align="center">
-
-<a href="https://github.com/shreyash-lal/roko">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyash-lal&repo=roko&theme=radical&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&hide_border=true" />
-</a>
-
-<a href="https://github.com/shreyash-lal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyash-lal&repo=assignment-website&theme=radical&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&hide_border=true" />
-</a>
-
-</div>
-
----
 
 ## 📊 GitHub Snapshot  
 
