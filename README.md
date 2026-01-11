@@ -18,7 +18,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🧠 About Me  
 
-```yaml
+yaml
 Name: Shreyash Lal
 Education: B.Tech CSE (AI & ML)
 College: Techno Main Salt Lake
@@ -44,4 +44,4 @@ Vision: Build meaningful tech that impacts millions
 <!-- ===================== QUOTE ===================== -->
 ##💫 Developer Philosophy
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+not+just+written,+it’s+engineered.&author=Shreyash+Lal" /> </p>
-<!-- ===================== FOOTER ===================== --> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284115-ec9ec5e1-8c8f-4b0d-a7c2-1c2d60a9c2ff.gif" width="300"/> </p> <p align="center"> <i>✨ Designed with futuristic aesthetics by <a href="https://github.com/shreyash-lal">Shreyash Lal</a></i> </p> ```
+<!-- ===================== FOOTER ===================== --> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284115-ec9ec5e1-8c8f-4b0d-a7c2-1c2d60a9c2ff.gif" width="300"/> </p> <p align="center"> <i>✨ Designed with futuristic aesthetics by <a href="https://github.com/shreyash-lal">Shreyash Lal</a></i> </p> 
